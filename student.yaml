@@ -1,0 +1,14 @@
+student:
+  id: 101
+  name: Gowtham Reddy
+  age: 20
+  course: Computer Science Engineering
+  college: Lovely Professional University
+  skills:
+    - AWS
+    - Linux
+    - DevOps
+    - Docker
+    - Kubernetes
+  year: 3
+  active: true
