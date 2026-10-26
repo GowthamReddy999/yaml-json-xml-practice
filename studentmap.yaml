@@ -1,0 +1,26 @@
+student:
+  personal_details:
+    id: 101
+    name: Gowtham Reddy
+    age: 20
+
+  education:
+    college: Lovely Professional University
+    degree: B.Tech
+    branch: Computer Science Engineering
+    year: 3
+
+  technical_skills:
+    cloud: AWS
+    operating_system: Linux
+    automation: Ansible
+    containerization: Docker
+    orchestration: Kubernetes
+
+  certifications:
+    - AWS Certified Cloud Practitioner
+    - AWS Certified Solutions Architect - Associate
+
+  status:
+    currently_studying: true
+    looking_for_internship: true
