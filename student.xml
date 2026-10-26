@@ -1,0 +1,16 @@
+<student>
+    <id>101</id>
+    <name>Gowtham Reddy</name>
+    <age>20</age>
+    <course>Computer Science Engineering</course>
+    <college>Lovely Professional University</college>
+    <skills>
+        <skill>AWS</skill>
+        <skill>Linux</skill>
+        <skill>DevOps</skill>
+        <skill>Docker</skill>
+        <skill>Kubernetes</skill>
+    </skills>
+    <year>3</year>
+    <active>true</active>
+</student>
